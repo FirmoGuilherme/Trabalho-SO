@@ -5,5 +5,6 @@ Este é um projeto educacional em Python que simula e analisa **deadlocks** em s
 
 ### Como executar
 - Executar o arquivo main.exe que esta dentro da pasta dist/main
-- pip install -r requirements.txt
-- python analisador_deadlock.py
+- Ou, se preferir, pode executar localmente com os seguintes comandos
+  - pip install -r requirements.txt
+  - python analisador_deadlock.py
