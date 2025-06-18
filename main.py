@@ -633,4 +633,5 @@ def limpar_tudo():
     canvas.draw()
 
 
-root.mainloop()
+if __name__ == '__main__':
+    root.mainloop()
